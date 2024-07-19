@@ -3,10 +3,8 @@ This application uses deep learning techniques and provides recipe for the food 
 <br>
 
 # Features 
-1. A nice descriptive title.
-<br>
-2. Detailed ingredients list.
-<br>
+1. A nice descriptive title.<br>
+2. Detailed ingredients list.<br>
 3. Step-by-Step instructions to cook.
 <br>
 <h1>Prerequiste</h1>
@@ -15,9 +13,9 @@ Download these files and replace it with the files in this folder "Foodimg2Ing/d
 <br>
 1. Model (Modelbest.ckpt) : <a href="Modelbest.ckpt" >Download Modelbest.ckpt</a>
 <br>
-2. Ingredients (ingr_vocab.pkl) : [(Download ingr_vocab.pkl)]
+2. Ingredients (ingr_vocab.pkl) : <a href="ingr_vocab.pkl">Download ingr_vocab.pkl</a>
 <br>
-3. Instruction (instr_vocab.pkl) : [(Download instr_vocab.pkl)]
+3. Instruction (instr_vocab.pkl) : <a href="instr_vocab.pkl">Download instr_vocab.pkl</a>
 <br>
 <br>
 <h1>To run the code</h1>
