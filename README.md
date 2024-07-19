@@ -13,7 +13,7 @@ This application uses deep learning techniques and provides recipe for the food 
 Download these files and replace it with the files in this folder "Foodimg2Ing/data/"
 <br>
 <br>
-1. Model (Modelbest.ckpt) : [(Download Modelbest.ckpt)]
+1. Model (Modelbest.ckpt) : <a href="Modelbest.ckpt" >Download Modelbest.ckpt</a>
 <br>
 2. Ingredients (ingr_vocab.pkl) : [(Download ingr_vocab.pkl)]
 <br>
@@ -21,8 +21,8 @@ Download these files and replace it with the files in this folder "Foodimg2Ing/d
 <br>
 <br>
 <h1>To run the code</h1>
-<br>
 1. Open Terminal (cmd)
+<br>
 2. Install all the required libraries using "pip install -r requirements.txt"
 <br>
 3. run "python run.py"
