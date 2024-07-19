@@ -10,11 +10,11 @@ This application uses deep learning techniques and provides recipe for the food 
 Download these files and replace it with the files in this folder "Foodimg2Ing/data/"
 <br>
 <br>
-1. Model (Modelbest.ckpt) : <a href="Modelbest.ckpt" >Download Modelbest.ckpt</a>
+1. Model (Modelbest.ckpt) : <a href="https://dl.fbaipublicfiles.com/inversecooking/modelbest.ckpt" >Download Modelbest.ckpt</a>
 <br>
-2. Ingredients (ingr_vocab.pkl) : <a href="ingr_vocab.pkl">Download ingr_vocab.pkl</a>
+2. Ingredients (ingr_vocab.pkl) : <a href="https://dl.fbaipublicfiles.com/inversecooking/ingr_vocab.pkl">Download ingr_vocab.pkl</a>
 <br>
-3. Instruction (instr_vocab.pkl) : <a href="instr_vocab.pkl">Download instr_vocab.pkl</a>
+3. Instruction (instr_vocab.pkl) : <a href="https://dl.fbaipublicfiles.com/inversecooking/instr_vocab.pkl">Download instr_vocab.pkl</a>
 <br>
 <br>
 <h1>To run the code</h1>
