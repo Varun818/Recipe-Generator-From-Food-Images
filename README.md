@@ -9,8 +9,7 @@ This application uses deep learning techniques and provides recipe for the food 
 <br>
 3. Step-by-Step instructions to cook.
 <br>
-<br>
-# Prerequiste
+<h1>Prerequiste</h1>
 Download these files and replace it with the files in this folder "Foodimg2Ing/data/"
 <br>
 1. Model (Modelbest.ckpt) : [(Download Modelbest.ckpt)]
@@ -20,7 +19,7 @@ Download these files and replace it with the files in this folder "Foodimg2Ing/d
 3. Instruction (instr_vocab.pkl) : [(Download instr_vocab.pkl)]
 <br>
 <br>
-# To run the code
+<h1>To run the code</h1>
 <br>
 1. Open Terminal (cmd)
 <br>
