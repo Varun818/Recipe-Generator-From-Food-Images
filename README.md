@@ -5,9 +5,8 @@ This application uses deep learning techniques and provides recipe for the food 
 # Features 
 1. A nice descriptive title.<br>
 2. Detailed ingredients list.<br>
-3. Step-by-Step instructions to cook.
-<br>
-<h1>Prerequiste</h1>
+3. Step-by-Step instructions to cook.<br>
+<h1>Prerequisite</h1>
 Download these files and replace it with the files in this folder "Foodimg2Ing/data/"
 <br>
 <br>
