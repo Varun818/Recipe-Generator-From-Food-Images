@@ -13,14 +13,15 @@ This application uses deep learning techniques and provides recipe for the food 
 # Prerequiste
 Download these files and replace it with the files in this folder "Foodimg2Ing/data/"
 <br>
-1. Model (Modelbest.ckpt) : (Download Modelbest.ckpt)
+1. Model (Modelbest.ckpt) : [(Download Modelbest.ckpt)]
 <br>
-2. Ingredients (ingr_vocab.pkl) : (Download ingr_vocab.pkl)
+2. Ingredients (ingr_vocab.pkl) : [(Download ingr_vocab.pkl)]
 <br>
-3. Instruction (instr_vocab.pkl) : (Download instr_vocab.pkl)
+3. Instruction (instr_vocab.pkl) : [(Download instr_vocab.pkl)]
 <br>
 <br>
 # To run the code
+<br>
 1. Open Terminal (cmd)
 <br>
 2. Install all the required libraries using "pip install -r requirements.txt"
